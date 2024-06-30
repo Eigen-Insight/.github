@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/1e0de9a0-9a79-46fd-be9b-cd26f6126752" alt="Eigen Cover 3" width="619">
+</h1>
 
 # 🌐 Welcome to EigenInsight!
 EigenInsight is a powerful analytics and engagement platform for the EigenLayer ecosystem, connecting AVSs, operators, and restakers. 🚀
