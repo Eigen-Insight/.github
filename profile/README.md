@@ -1,6 +1,5 @@
 
 # 🌐 Welcome to EigenInsight!
-
 EigenInsight is a powerful analytics and engagement platform for the EigenLayer ecosystem, connecting AVSs, operators, and restakers. 🚀
 
 # 💻 Project Repositories
