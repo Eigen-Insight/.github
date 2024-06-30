@@ -72,8 +72,11 @@ Welcome to the demo section of EigenInsight! Here, you can explore some of the k
 ## 👨🏻‍💻 Tech Stack
 
 **Client:** NextJS, HTML, CSS, JS, TS, TailwindCSS
+
 **Server:** Node, Express
+
 **Database:** MongoDB
+
 **Decentralized Storage:** Lighthouse
 
 
