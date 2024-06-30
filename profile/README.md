@@ -24,25 +24,48 @@ This repository includes the main application code, encompassing all core functi
 
 ## 💡 Why EigenInsight ?
 EigenInsight addresses the key challenges faced by AVSs, operators, and restakers in the EigenLayer ecosystem by providing comprehensive real-time analytics, facilitating direct engagement, and enhancing transparency. It helps AVSs and operators showcase their performance and reliability.
+
 ## 🎯 Our Vision & Mission
 - **Vision**: "Empowering the EigenLayer Ecosystem: Data-Driven Insights and Knowledge Sharing for AVSs, Operators, and Restakers."
 - **Mission**:  "To enhance the transparency, performance, security, and knowledge sharing of the EigenLayer ecosystem by providing comprehensive analytics."
-## 🌱 Key Features
 
+## 🌱 Key Features
 - **Analytics Dashboard**: Provides real-time data and insights on AVSs, operators, and restakers' performance.
 - **Operator and AVS Profiles**: Detailed profiles showcasing historical performance, current engagements, and restaker feedback.
 - **Office Hours and One-to-One Sessions**: Scheduled meetings for direct communication and support between stakeholders.
 - **Alerts and Notifications**: Real-time alerts for significant events such as performance drops or slashing events.
 
+## 🔮 Demo of our platform
+
+Welcome to the demo section of EigenInsight! Here, you can explore some of the key features of our platform through screenshots.
+
+### 1. Detailed AVS and Operator Profiles
+
+<p align="center">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/4176bf7c-56fb-47b3-8852-0f1552dca3c5" alt="EI-4" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/9507646b-e14d-4536-a42b-acba9490bdf4" alt="EI-6" width="500">
+</p>
+
+### 2. Real-Time Analytics Dashboard
+<p align="center">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/9b0f4914-ca2c-4280-8b19-18b0655311ec" alt="EI-1" width="500">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/e3871cf5-8df8-4382-86b9-85b8f880d6ec" alt="EI-2" width="500">
+</p>
+
+### 3. Office Hours and One-to-One Sessions
+<p align="center">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/34c9d42a-9d03-4680-bf14-0eae2670b296" alt="EI-5" width="500">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/b6f9e640-5d3a-4109-a1fe-4bebcdd5bb5c" alt="EI-5" width="500">
+</p>
 
 ## 👨🏻‍💻 Tech Stack
 
 **Client:** NextJS, HTML, CSS, JS, TS, TailwindCSS
-
 **Server:** Node, Express
-
 **Database:** MongoDB
-
 **Decentralized Storage:** Lighthouse
 
 
