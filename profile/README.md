@@ -53,6 +53,7 @@ Welcome to the demo section of EigenInsight! Here, you can explore some of the k
 <p align="center">
   <img src="https://github.com/Eigen-Insight/.github/assets/128731345/9b0f4914-ca2c-4280-8b19-18b0655311ec" alt="EI-1" width="500">
   <img src="https://github.com/Eigen-Insight/.github/assets/128731345/e3871cf5-8df8-4382-86b9-85b8f880d6ec" alt="EI-2" width="500">
+  <img src="https://github.com/Eigen-Insight/.github/assets/128731345/74339ca6-339b-4b83-a993-f71121a7ee2f" alt="EI-2" width="500">
 </p>
 
 ### 3. Office Hours and One-to-One Sessions
