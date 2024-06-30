@@ -43,22 +43,6 @@ EigenInsight addresses the key challenges faced by AVSs, operators, and restaker
 **Decentralized Storage:** Lighthouse
 
 
-## 🎨 Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Dark Blue | #00172B |
-| Light Blue | #5E9CBF |
-| Deep Blue |  #214965 |
-| Medium Blue |  #427FA3 |
-| Navy Blue |  #05223B |
-| Light Cyan |#A7DBF2  |
-| Slate Blue | #376380 |
-| Midnight Blue | #11334D |
-| Sky Blue |  #8AB3C9 |
-| Grayish Blue | #718391 |
-
-
 ## 💻 Getting Started
 Become an EigenInsight user effortlessly! Simply  [🔗click here](https://www.eigeninsight.xyz/), to kickstart your journey.
 
