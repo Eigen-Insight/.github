@@ -62,6 +62,13 @@ Welcome to the demo section of EigenInsight! Here, you can explore some of the k
   <img src="https://github.com/Eigen-Insight/.github/assets/128731345/b6f9e640-5d3a-4109-a1fe-4bebcdd5bb5c" alt="EI-5" width="500">
 </p>
 
+### 4. Instant Meet 
+<p align="center">
+<img width="500" alt="EI-9" src="https://github.com/Eigen-Insight/.github/assets/128731345/679322db-f6bc-4e67-938f-c3484a648d78">
+<img width="500" alt="EI-10" src="https://github.com/Eigen-Insight/.github/assets/128731345/2d681003-2e5f-417e-a91f-5a86e09c4571">
+</p>
+
+
 ## 👨🏻‍💻 Tech Stack
 
 **Client:** NextJS, HTML, CSS, JS, TS, TailwindCSS
