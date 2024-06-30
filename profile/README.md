@@ -3,6 +3,9 @@
 
 EigenInsight is a powerful analytics and engagement platform for the EigenLayer ecosystem, connecting AVSs, operators, and restakers. 🚀
 
+# 💻 Project Repositories
+Our project is organized into two main repositories to ensure a clear separation of concerns and facilitate efficient development. Below are the details and links to each repository:
+
 ## 🔗Links
 
 I) **Homepage Repository**
@@ -79,7 +82,3 @@ Alternatively, you can dive right into our application by  [🔗click here](http
 #### 4)  What role do recorded sessions play in EigenInsight?
 
 - Recorded sessions from office hours and one-on-one meetings create a repository of knowledge that users can access anytime. This helps in educating new users.
-
-# 💻 Project Repositories
-Our project is organized into two main repositories to ensure a clear separation of concerns and facilitate efficient development. Below are the details and links to each repository:
-
