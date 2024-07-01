@@ -64,7 +64,7 @@ Welcome to the demo section of EigenInsight! Here, you can explore some of the k
 
 ### 4. Instant Meet 
 <p align="center">
-<img width="500" alt="EI-9" src="https://github.com/Eigen-Insight/.github/assets/128731345/679322db-f6bc-4e67-938f-c3484a648d78">
+<img width="500" alt="EI-11" src="https://github.com/Eigen-Insight/.github/assets/128731345/f110b621-e8cb-4733-808c-5980501c940f">
 <img width="500" alt="EI-10" src="https://github.com/Eigen-Insight/.github/assets/128731345/2d681003-2e5f-417e-a91f-5a86e09c4571">
 </p>
 
