@@ -37,7 +37,15 @@ EigenInsight addresses the key challenges faced by AVSs, operators, and restaker
 
 ## 🔮 Demo of our platform
 
-Welcome to the demo section of EigenInsight! Here, you can explore some of the key features of our platform through screenshots.
+Welcome to the demo section of EigenInsight! Here, you can explore some of the key features of our platform through demo video and screenshots.
+### Presentation Video :
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ZHF5ZVV7bJM">
+    <img src="https://img.youtube.com/vi/ZHF5ZVV7bJM/0.jpg" alt="Watch the video">
+  </a>
+</div>
+
+### Screenshots : 
 
 ### 1. Detailed AVS and Operator Profiles
 
@@ -79,6 +87,10 @@ Welcome to the demo section of EigenInsight! Here, you can explore some of the k
 
 **Decentralized Storage:** Lighthouse
 
+**Video Conferencing:** Huddle01
+
+**Data Gathering and Analytics:** Dune Analytics API and Eigen Explorer API
+
 
 ## 💻 Getting Started
 Become an EigenInsight user effortlessly! Simply  [🔗click here](https://www.eigeninsight.xyz/), to kickstart your journey.
@@ -102,3 +114,6 @@ Alternatively, you can dive right into our application by  [🔗click here](http
 #### 4)  What role do recorded sessions play in EigenInsight?
 
 - Recorded sessions from office hours and one-on-one meetings create a repository of knowledge that users can access anytime. This helps in educating new users.
+
+## 🙏 Acknowledgements
+Special thanks to ChoraClub for granting us permission to use some of their components, which greatly helped in building EigenInsight.
